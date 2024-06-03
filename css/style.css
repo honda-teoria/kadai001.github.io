@@ -9,10 +9,6 @@ body {
   font-style: normal;
 }
 
-section {
-  margin: 0 auto;
-}
-
 h1 {
   font-size: 34px;
   margin-bottom: 30px;
@@ -141,7 +137,7 @@ li {
 @media screen and (max-width: 767px) {
   body {
     min-width: 375px;
-    margin: 0;
+    margin: 0 auto;
   }
 
   h1 {
