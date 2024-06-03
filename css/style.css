@@ -29,7 +29,7 @@ PC用スタイル
 @media screen and (min-width: 768px) {
 
   body {
-    max-width: 1080px;
+    max-width: 1200px;
     min-width: 960px;
     margin: 0 auto;
   }
