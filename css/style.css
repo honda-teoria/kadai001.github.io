@@ -9,6 +9,10 @@ body {
   font-style: normal;
 }
 
+section {
+  margin: 0 auto;
+}
+
 h1 {
   font-size: 34px;
   margin-bottom: 30px;
